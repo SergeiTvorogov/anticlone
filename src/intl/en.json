@@ -1,0 +1,22 @@
+{
+  "title": "Document watermarking",
+  "description": "Documents watermarking, watermark on documents, watermark",
+  "author": "AntiClone",
+  "logo": "AntiClone",
+  "privacyHeader": "Privacy policy",
+  "privacyMessage": "We do not transfer or store files sent by users or the results of their processing. All data is processed on the user's side in his web browser without sending it to any server",
+  "servicePurpose": "The service is intended for adding watermarks and hiding photographs on documents",
+  "dragHere": "Click here or drag a photo",
+  "socialShare": "Share the site link!",
+  "crop": "Crop",
+  "defaultWatermarkText": "AntiClone",
+  "faceNotFound": "No face found!",
+  "setupColor": "Adjust color",
+  "setupText": "Text and photo",
+  "watermarkText": "Watermark text",
+  "hideFace": "Hide face",
+  "downloadHelp": "On your smartphone, the image will open in a new tab, just save it to the gallery. If it didn't, save the image that will be shown below.",
+  "download": "Download",
+  "retry": "Restart",
+  "languageSwitch": "Русская версия"
+}

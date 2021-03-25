@@ -1,0 +1,12 @@
+{
+  "authorUrl": "https://sergeitvorogov.ru",
+  "githubUrl": "https://github.com/SergeiTvorogov/anticlone",
+  "shareUrlWhatsapp": "whatsapp://send?text=https://anticlone.sergeitvorogov.ru",
+  "shareUrlVk": "https://vk.com/share.php?url=https://anticlone.sergeitvorogov.ru",
+  "shareUrlTelegram": "https://telegram.me/share/url?url=https://anticlone.sergeitvorogov.ru",
+  "defaultFilename": "anticlone.jpg",
+  "siteMetadata": {
+    "image": "https://anticlone.sergeitvorogov.ru/share.jpg",
+    "siteUrl": "https://anticlone.sergeitvorogov.ru"
+  }
+}
