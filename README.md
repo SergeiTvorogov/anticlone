@@ -1,12 +1,11 @@
-##GatsbyJS watermarking and face detection demo
+## GatsbyJS watermarking and face detection demo
 
 Uses https://github.com/justadudewhohacks/face-api.js for face detection.
 
-Before:
-![before](./docs/before.jpg)
 
-After:
-![after](./docs/after.jpg)
+Before:|After:
+:-:|:-:
+![before](./docs/before.jpg)|![after](./docs/after.jpg)
 
 Demo: https://anticlone.sergeitvorogov.ru
 
